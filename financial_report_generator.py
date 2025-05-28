@@ -2,14 +2,14 @@ import yfinance as yf
 import pandas as pd
 import os
 
-def fetch_financial_reports(ticker: str, save_path: str = "reports", period: str = "max", interval: str = "1d"):
+def fetch_financial_reports(ticker: str, save_path: str = "reports", period: str = "max", interval: str = "1d"): # we can use max for period to get all available data
     """
     Fetches financial reports and historical stock data for the given ticker and saves them as CSV files.
     
     Args:
         ticker (str): Stock ticker (e.g., "AAPL", "RELIANCE.NS").
         save_path (str): Root directory to save reports.
-        period (str): Historical data period, e.g. '1mo', '1y', '5y', 'max' (default 'max').
+        period (str): Historical data period, e.g. '1mo', '1y', '5y', 'max' (default 'max'). (from yfinance documentation)
         interval (str): Data interval, e.g. '1d', '1wk', '1mo' (default '1d').
     """
     try:
@@ -53,7 +53,7 @@ def fetch_financial_reports(ticker: str, save_path: str = "reports", period: str
 # ------------------------
 # 💡 Example usage
 # ------------------------
-if __name__ == "__main__":
-    tickers = ["AAPL", "RELIANCE.NS"]
-    for t in tickers:
-        fetch_financial_reports(t)
+# if __name__ == "__main__":
+#     tickers = ["AAPL", "RELIANCE.NS"]
+#     for t in tickers:
+#         fetch_financial_reports(t)
