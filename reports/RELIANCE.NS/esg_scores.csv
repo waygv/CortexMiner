@@ -1,0 +1,37 @@
+,esgScores
+maxAge,86400
+totalEsg,41.04
+environmentScore,24.19
+socialScore,10.65
+governanceScore,6.2
+ratingYear,2023
+ratingMonth,9
+highestControversy,2.0
+peerCount,4
+esgPerformance,LEAD_PERF
+peerGroup,Refiners & Pipelines
+relatedControversy,"['Customer Incidents', 'Business Ethics Incidents']"
+peerEsgScorePerformance,"{'min': 21.06, 'avg': 30.79, 'max': 43.69}"
+peerGovernancePerformance,"{'min': 2.98, 'avg': 3.61, 'max': 4.54}"
+peerSocialPerformance,"{'min': 7.98, 'avg': 9.15, 'max': 11.01}"
+peerEnvironmentPerformance,"{'min': 10.1, 'avg': 13.729999999999999, 'max': 20.26}"
+peerHighestControversyPerformance,"{'min': 1.0, 'avg': 2.25, 'max': 3.0}"
+percentile,92.72
+environmentPercentile,
+socialPercentile,
+governancePercentile,
+adult,False
+alcoholic,False
+animalTesting,False
+catholic,True
+controversialWeapons,False
+smallArms,False
+furLeather,False
+gambling,False
+gmo,False
+militaryContract,False
+nuclear,False
+pesticides,False
+palmOil,False
+coal,False
+tobacco,False
