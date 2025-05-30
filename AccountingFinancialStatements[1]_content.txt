@@ -1,0 +1,448 @@
+ 
+Provided by 
+ 
+Accounting Financial Statements 
+The Academic Center for Excellence 
+1 
+May 2022 
+Accounting Financial Statements 
+ 
+In accounting, it is important to be able to compose and interpret financial statements. Being 
+able to do this will allow investors, accountants, and lenders to determine the financial health 
+of a company. This handout will explain how to prepare each financial statement, including the 
+income statement, statement of retained earnings, balance sheet, and statement of cash flows.  
+ 
+Important Terms 
+You can click each term to navigate to specific sections of this handout. 
+Income statement: This is the first financial statement prepared. The income statement is 
+prepared to look at a company’s revenues and expenses over a certain period, such as a month, 
+a quarter, or a year. When expenses are subtracted from revenues, the result is net income.  
+ 
+Statement of retained earnings: This is the second financial statement prepared. This statement 
+shows how much of a company’s earnings were kept within the company and not paid out via 
+dividends (the earnings distributed to a company’s shareholders).  
+ 
+Balance sheet: This is the third financial statement prepared. The balance sheet shows a 
+company’s financial position at any point in time, rather than over a period. To prepare a 
+company’s balance sheet, all that is needed is the company’s assets, liabilities, and equity. 
+ 
+Statement of cash flows: This is the last financial statement prepared. The statement of cash 
+flows lists the cash inflows and outflows for a company over a period, such as a month, a 
+quarter, or a year. 
+ 
+Income Statement 
+When doing income statements, it is important to account for all types of revenues and 
+expenses. For example, common types of revenue accounts include sales, commissions, fees 
+earned, interest revenue, and service revenue. Common types of expense accounts include 
+depreciation expense, salary expense, rent expense, utilities expense, income tax expense, and 
+interest expense. The reason the income statement is prepared first is because the final 
+product is net income, which is needed for the statement of retained earnings.  
+ 
+ 
+ 
+
+
+ 
+Provided by 
+ 
+Accounting Financial Statements 
+The Academic Center for Excellence 
+2 
+May 2022 
+Example:  
+ABC Company had a total revenue of $55,000 during the fiscal year, ending on December 31st. 
+Of the company’s total revenue, $50,000 was from service revenue, $4,000 was from sales, and 
+$1,000 was from fees earned. Also, ABC Company had $28,000 in total expenses. Of the 
+expenses, $10,000 came from paying employee salaries, $8,000 came from rent expenses, and 
+$5,000 came from interest expenses. Furthermore, ABC Company had $3,000 of income tax 
+expenses, $1,000 in depreciation expenses, $1,000 of utility expenses. A class assignment may 
+require students to complete an income statement that would look like the following table. 
+ 
+Income Statement 
+ABC Company  
+ 
+For Fiscal Year Ended 
+December 31 
+Revenues 
+ 
+ 
+ 
+ 
+Service revenue 
+$50,000  
+ 
+Sales 
+    4,000  
+ 
+Fees earned 
+    1,000  
+ 
+Total revenues 
+ 
+$55,000 
+ 
+ 
+ 
+ 
+Expenses 
+ 
+ 
+ 
+ 
+Salary expense 
+$10,000  
+ 
+Rent expense 
+    8,000  
+ 
+Interest expense 
+    5,000  
+ 
+Income tax expense 
+    3,000  
+ 
+Depreciation expense 
+    1,000  
+ 
+Utilities expense 
+    1,000  
+ 
+Total expenses 
+ 
+$28,000 
+ 
+ 
+ 
+ 
+Net income 
+ 
+ 
+$27,000 
+ 
+It should be noted that the net income of $27,000 was calculated by subtracting the total 
+expenses of $28,000 from the total revenues of $55,000. ABC Company’s net income will be 
+used to prepare the next financial statement, which is the statement of retained earnings.  
+ 
+ 
+ 
+
+
+ 
+Provided by 
+ 
+Accounting Financial Statements 
+The Academic Center for Excellence 
+3 
+May 2022 
+Statement of Retained Earnings 
+The reason this is the second statement to prepare is because the retained earnings are needed 
+to prepare the equity section of the balance sheet. The first item needed to determine a 
+company’s retained earnings for a period is to record the retained earnings from the beginning 
+of the period. Next, add the company’s net income from the income statement to the amount 
+of retained earnings at the beginning of the period. Finally, subtract how much money was paid 
+in dividends to the company’s shareholders.  
+Example: 
+The following table shows ABC Company’s retained earnings as of the end of the fiscal year on 
+December 31st. It should be noted that ABC Company started the year with $12,000 in retained 
+earnings. They also had a net income of $27,000 for year, which was calculated by preparing 
+the income statement. Lastly, they paid out $4,000 in dividends to company shareholders 
+during the fiscal year. A class assignment may require students to complete a statement of 
+retained earnings for ABC Company that would look like the following table. 
+ 
+Statement of 
+Retained Earnings  
+ABC Company  
+For Fiscal Year Ended 
+December 31st 
+ 
+Retained earnings 
+(January 1st) 
+$12,000 
+Add 
+Net income 
+  27,000 
+ 
+ 
+$39,000 
+Subtract 
+Dividends 
+  4,000 
+ 
+Retained earnings  
+(December 31st) 
+$35,000 
+ 
+In this example, ABC Company started the fiscal year with $12,000. After adding $27,000 to that 
+amount, the running total is $39,000. Next, $4,000 is subtracted from that to account for 
+dividend payments. Therefore, ABC Company ends the year with $35,000 in retained earnings. 
+The $35,000 in retained earnings will be needed to prepare the equity section of the next 
+financial statement, the balance sheet.  
+ 
+ 
+ 
+ 
+
+
+ 
+Provided by 
+ 
+Accounting Financial Statements 
+The Academic Center for Excellence 
+4 
+May 2022 
+Balance Sheet 
+The balance sheet is prepared using the accounting equation formula. Therefore, it should be 
+set up as assets = liabilities + equity. The company’s asset accounts should be recorded on the 
+left side of the page, while its liabilities and equity accounts should be recorded on the right 
+side of the page. Assets are any tangible item of value that a company owns. Common 
+examples of assets are cash, accounts receivable, land, equipment, and inventory. Liabilities are 
+debts the company owes to other entities, such as lenders, sellers, and other companies. 
+Common examples of liabilities are accounts payable, wages payable, notes payable, and taxes 
+payable. The difference between a company’s assets and liabilities is the company’s equity. 
+Within the equity section of the balance sheet, the company’s retained earnings and common 
+stock are listed. The reason the balance sheet is the third statement prepared is because the 
+cash account balance in assets is needed for the statement of cash flows. The following table 
+shows ABC Company’s balance sheet on December 31st. 
+Example: 
+On December 31st, ABC Company had $75,000 in total assets. Of their assets, they had $50,000 
+in cash, $20,000 in inventory, and $5,000 in accounts receivable. ABC Company also had 
+$27,000 in total liabilities. Of their liabilities, they had $15,000 in wages payable, $6,000 in 
+accounts payable, $3,000 in taxes payable, and $3,000 in notes payable. In addition, ABC 
+Company had $48,000 in equity. Of their equity, they had $13,000 in common stock and 
+$35,000 in retained earnings. A class assignment may require students to complete a balance 
+sheet for ABC Company that would look like the following table. 
+ 
+Balance Sheet 
+ABC Company  
+ 
+December 31st 
+Assets 
+ 
+Liabilities 
+ 
+Cash 
+$50,000 Wages payable 
+$15,000 
+Inventory 
+  20,000 Accounts payable 
+    6,000 
+Accounts receivable 
+    5,000 Taxes payable 
+    3,000 
+ 
+ 
+Notes payable 
+    3,000 
+ 
+ 
+Total liabilities  
+ $27,000 
+ 
+ 
+ 
+ 
+ 
+ 
+Equity 
+ 
+ 
+ 
+Common stock 
+$13,000 
+ 
+ 
+Retained earnings 
+  35,000 
+ 
+ 
+Total equity 
+$48,000 
+ 
+ 
+ 
+ 
+Total assets 
+$75,000 Total liabilities and equity 
+$75,000 
+
+
+ 
+Provided by 
+ 
+Accounting Financial Statements 
+The Academic Center for Excellence 
+5 
+May 2022 
+In the example above, it should be noted that the value of the total assets equals the value of 
+the total liabilities and equity combined, which is $75,000 for each. Also, remember that the 
+retained earnings from the previous statement were used to prepare the equity section of the 
+balance sheet. To prepare the next statement, which is the statement of cash flows, the cash 
+account balance in the assets section will be needed. Therefore, the $50,000 in cash will be 
+used to prepare the statement of cash flows.  
+ 
+Statement of Cash Flows 
+The statement of cash flows is divided into three sections. The first section is the cash flows 
+from operating activities. Examples of operating activity accounts include wages, salaries, 
+interest payments, interest income, cash receipts from customers, and cash paid to vendors. 
+The second section is the cash flows from investing activities. For example, investing cash flows 
+could be the buying and selling of an asset, such as equipment. The third section is the cash 
+flows from financing activities. Examples of financing cash flows would be dividends paid to 
+shareholders, cash investments by investors, bond issuances, and repayment of loans. The sum 
+of net cash flows from all three activities should equal the cash balance in the cash account 
+from the balance sheet. Additionally, there are two different methods to prepare the statement 
+of cash flows: the direct method and the indirect method.  
+ 
+The following example shows ABC Company’s statement of cash flows for the fiscal year that 
+ended on December 31st. ABC Company uses the direct method in the following example. It 
+should be noted that account balances in parentheses indicate a negative balance for that 
+account.  
+ 
+Example: 
+At the beginning of the fiscal year, ABC Company had $0 in cash. During the year, they 
+increased that amount by $50,000, to end with $50,000. ABC Company accumulated a net total 
+of $52,000 from operating activities.  Even though they received $70,000 cash from customer 
+receipts, they paid $10,000 to vendors and $8,000 for rent. ABC Company had a negative 
+balance of $18,000 for investing activities during the year. Of that $18,000, $12,000 went 
+toward purchasing vehicles, $4,000 went toward purchasing computer equipment, and $2,000 
+went toward purchasing furniture. For financing activities, ABC Company accumulated a net 
+total of $16,000. Even though they received $26,000 in investments from investors, they still 
+paid $6,000 towards their bank loan, and $4,000 via dividends toward their shareholders. A 
+class assignment may require students to complete a statement of cash flows for ABC Company 
+that would look like the table on the following page.  
+ 
+
+
+ 
+Provided by 
+ 
+Accounting Financial Statements 
+The Academic Center for Excellence 
+6 
+May 2022 
+ABC Company   
+Statement of Cash 
+Flows 
+Fiscal Year Ended on 
+December 31st 
+ 
+Cash flows from 
+operating Activities 
+ 
+ 
+ 
+ 
+Cash receipts from 
+customers 
+$70,000  
+ 
+Cash paid to vendors 
+(10,000)  
+ 
+Cash paid for rent 
+(8,000)  
+ 
+Net cash from 
+operating activities 
+ 
+$52,000 
+Cash flows from 
+investing activities 
+ 
+ 
+ 
+ 
+Cash paid for 
+vehicles 
+$(12,000)  
+ 
+Cash paid for 
+computer equipment 
+   (4,000)  
+ 
+Cash paid for 
+furniture 
+   (2,000)  
+ 
+Net cash from 
+investing activities 
+ 
+$(18,000) 
+Cash flows from 
+financing activities 
+ 
+ 
+ 
+ 
+Cash investments 
+from investors 
+$26,000  
+ 
+Cash paid towards 
+bank loan 
+  (6,000)  
+ 
+Cash paid in the form 
+of dividends to 
+shareholders 
+  (4,000)  
+ 
+Net cash from 
+financing activities 
+ 
+$16,000 
+Net increase in cash 
+ 
+ 
+$50,000 
+Cash balance, 
+January 1st 
+ 
+ 
+$0 
+Cash balance, 
+December 31st 
+ 
+ 
+$50,000 
+ 
+
+
+ 
+Provided by 
+ 
+Accounting Financial Statements 
+The Academic Center for Excellence 
+7 
+May 2022 
+It should be noted that the ending cash balance equals the cash balance on the balance sheet, 
+which is $50,000. The $50,000 was calculated by adding the net cash from operating, investing, 
+and financing activities. It should also be noted that ABC Company started the fiscal year with 
+$0 in cash and increased that amount to $50,000 cash by the end of the year. 
+ 
+For more accounting resources, visit the Helpful Handouts webpage on Germanna’s Academic 
+Center for Excellence website at https://www.germanna.edu/academic-center-for-
+excellence/helpful-handouts/#accounting.  
+ 
+ 
+ 
+ 
+Works Consulted 
+Hayes, A. (2021, July 7). Dividend. Investopedia. 
+https://www.investopedia.com/terms/d/dividend.asp.  
+Murphy, C. B. (2021, June 9). Understanding the Cash Flow Statement. Investopedia. 
+https://www.investopedia.com/investing/what-is-a-cash-flow-statement/.  
+Tuovila, A. (2021, May 19). Direct Method Definition. Investopedia. 
+https://www.investopedia.com/terms/d/direct_method.asp.  
+Wild, J. J., & Shaw, K. W. (2019). Chapter 1: Accounting in Business. In Financial & managerial 
+accounting: information for decisions. essay, McGraw-Hill Education.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
